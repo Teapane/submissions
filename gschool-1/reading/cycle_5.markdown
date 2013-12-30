@@ -31,5 +31,5 @@ For this cycle, please select a text from our [Ruby Texts](http://tutorials.jump
 * Rolen Le - 
 * Romeeka Gayhart - 
 * Simon Taranto - 
-* Tyler Long - 
+* Tyler Long - Practical Object-Oriented Design in Ruby
 * Will Mitchell - 
